@@ -1,1 +1,2 @@
 https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jenkins-ubuntu-20-install-git-jdk-java-ci-cd
+ssh -i "jenkins.pem" ubuntu@ec2-54-175-178-46.compute-1.amazonaws.com
